@@ -7,9 +7,9 @@
 <!-- "Colocar sua imagens demo aqui" -->
 
 <div align="center">
-  <img src="./src/assets/1.png" width="" heigth="">
-  <img src="./src/assets/2.png" width="" heigth="">
-  <img src="./src/assets/3.png" width="" heigth="">
+  <img src="./src/assets/1.png" width="500" heigth="500">
+  <img src="./src/assets/2.png" width="500" heigth="500">
+  <img src="./src/assets/3.png" width="500" heigth="500">
 
 </div>
 
