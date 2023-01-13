@@ -1,0 +1,47 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainMenu {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+.mainMenu ul {
+  outline: none;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-size: 20px;
+  text-decoration: underline;
+  color: #0f0f0f88;
+}
+
+.mainMenu li {
+  padding: 0 10px;
+  color: #000;
+}
+
+.btnUl {
+  border: none;
+  background: transparent;
+}
+
+.logoApi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 600px;
+}
+
+.ImgLogoApi {
+  width: 150px;
+}
